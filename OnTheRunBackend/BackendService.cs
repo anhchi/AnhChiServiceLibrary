@@ -13,6 +13,7 @@ namespace OnTheRunBackend
 
         public string InsertNewUserREST(UserLegitimation user)
         {
+            string i = "";
             throw new NotImplementedException();
         }
 
