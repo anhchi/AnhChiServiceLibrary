@@ -29,7 +29,7 @@ namespace OnTheRunBackend
 
         public List<OTREvent> GetOngoingEventsREST(UserLegitimation user)
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException();//test
         }
 
         public List<OTREvent> GetArchivedEventsREST(UserLegitimation user)
